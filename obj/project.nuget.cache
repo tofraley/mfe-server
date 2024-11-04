@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "p9+elnM5bMm5I//Z6PllPnt3mA8ETyLd1nZyh5Ju5GyobAQY/252/3aamnipfsCI5OlUwSfEm10zwSV5uvntnw==",
+  "success": true,
+  "projectFilePath": "/Users/taylorfraley/Projects/mfe-server/mfe-server.csproj",
+  "expectedPackageFiles": [
+    "/Users/taylorfraley/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/taylorfraley/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/Users/taylorfraley/.nuget/packages/swashbuckle.aspnetcore/6.9.0/swashbuckle.aspnetcore.6.9.0.nupkg.sha512",
+    "/Users/taylorfraley/.nuget/packages/swashbuckle.aspnetcore.swagger/6.9.0/swashbuckle.aspnetcore.swagger.6.9.0.nupkg.sha512",
+    "/Users/taylorfraley/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.9.0/swashbuckle.aspnetcore.swaggergen.6.9.0.nupkg.sha512",
+    "/Users/taylorfraley/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.9.0/swashbuckle.aspnetcore.swaggerui.6.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
